@@ -1,4 +1,4 @@
-![lunch](http://dl.dropbox.com/u/83488/pycon.jpg)
+![lunch](https://github.com/tylerball/confnotes/raw/master/pycon2012/pycon.jpg)
 
 What I learned at PyCon
 =======================
