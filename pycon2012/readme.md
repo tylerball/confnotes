@@ -20,9 +20,7 @@ about iterating quickly on your projects:
   automatically.
 * need to test dependencies? use vagrant with the same configuration service you're using
   for production. e.g. puppet or chef
-* [Phabricator](http://phabricator.org/) a code review and ticketing tool built by
-
-Facebook that is in early release, but looks promising.
+* [Phabricator](http://phabricator.org/) a code review and ticketing tool built by Facebook that is in early release, but looks promising.
 
 Django forms
 ------------
