@@ -2,6 +2,16 @@ Strange Loop 2015
 ===
 ### St Louis, MO
 
+I kept a running list of...
+
+**WORDS AND PHRASES I DO NOT UNDERSTAND**
+
+* Bloom Filter
+* Tries
+* Reify
+* Partitioning a Number
+* Referential Transparency
+
 Cool talks:
 
 * [Strange Loops: Capturing Knots With Powerful
@@ -41,3 +51,16 @@ Activist](https://www.youtube.com/watch?v=gy82S8tjJX8) by Abby Bobé
     An eye-opening journey from growing up on the North Side of Philadelphia to
     learning to code to using her skills to help protestors in Ferguson and
     beyond.
+
+I also drank a lot of great beer at:
+
+* [Schlafly Tap Room](http://schlafly.com/tap-room/)
+* [Alpha Brewing Company](http://www.alphabrewingcompany.com/)
+* [4 Hands Brewery](http://4handsbrewery.com/)
+* [Square One Brewery](http://www.squareonebrewery.com/)
+
+I went to the St. Louis Art Museum (its free!).
+
+![](strangeloop2015/gerhardt.jpg)
+
+Gerhardt Richter is a huge boss.
